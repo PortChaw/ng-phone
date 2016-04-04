@@ -1,0 +1,30 @@
+{
+  "name": "ng-phone",
+  "version": "0.0.2",
+  "description": "Angular service/filter for phone number validation/display",
+  "main": "ng-phone.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elad/ng-phone.git"
+  },
+  "keywords": [
+    "angular",
+    "phone",
+    "number",
+    "format",
+    "validation",
+    "service",
+    "filter",
+    "libephonenumber",
+    "phoneformat"
+  ],
+  "author": "Elad Efrat <elad@iNNU.ORG>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elad/ng-phone/issues"
+  },
+  "homepage": "https://github.com/elad/ng-phone#readme"
+}
